@@ -56,6 +56,8 @@ $linha = mysqli_fetch_array($query);
                                     <option value="Branco">Branco</option>
                                     <option value="Azul">Azul</option>
                                     <option value="Verde">Verde</option>
+									<option value="Rosa">Rosa</option>
+									<option value="Violeta">Violeta</option>
                                 </select>
                             </div>
 
